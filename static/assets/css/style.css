@@ -1,0 +1,55 @@
+header {
+  text-align: center;
+  color: #7ae2d3;
+  font-family: tahoma;
+}
+
+body {
+  background: linear-gradient(to top right, #39B59D, #139BDA, #0066FF, #061CFF);
+  background-attachment: fixed;
+}
+
+.img {
+  text-align: center ;
+}
+
+.card {
+  padding: 40px;
+  position: absolute;
+
+ 
+  left: 360px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  color: #4d2f05;
+  width: 50% ;
+}
+
+
+
+.container {
+  top: 10px;
+  nav-down: root;
+  padding: 2px 16px;
+
+ 
+}
+
+.float-container {
+  border: 5px solid #b9cacf;
+  padding: 20px;
+  left: 3px;
+
+}
+
+.float-child {
+  width: 50%;
+  background: rgb(48,10,36);
+  background: linear-gradient(147deg, rgba(48,10,36,1) 0%, rgba(121,42,144,1) 100%);
+  float: left;
+  padding: 20px;
+  color: rgb(1, 17, 12);
+  border: 2px solid rgb(0, 191, 255);
+  font-family: tahoma;
+}  
