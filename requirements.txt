@@ -37,7 +37,7 @@ nltk==3.8.1
 numpy==1.16.2
 matplotlib==3.3.4
 packaging==23.0
-pandas==1.5.3
+pandas==1.0.5
 pathy==0.10.1
 Pillow==9.4.0
 preshed==3.0.8
