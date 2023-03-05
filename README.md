@@ -64,8 +64,8 @@ doc=nlp(example text)
 Iterate through each word and create summary using generator object:
 
 ```bash
-for i in doc._.textrank.summary()
-print(i)
+for i in doc._.textrank.summary():
+  print(i)
 
 ```
 # LESSONS
