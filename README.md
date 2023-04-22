@@ -79,7 +79,7 @@ Learnt about nlp models and their working
  - [pytextrank](https://github.com/DerwenAI/pytextrank)
 
 
-## Screenshots
+## Screenshots of the application
 
 ![App Screenshot](https://i.ibb.co/LQKFGfx/Screenshot-2023-03-04-160026.png )
 
